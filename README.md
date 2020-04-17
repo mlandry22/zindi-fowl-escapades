@@ -25,6 +25,7 @@ Thanks to him for getting this going. And I hope that since my scores have been 
 Model Table
 NB | Model | Val | Wt | Final CV | Pub. LB | Priv LB | Acc | Notes
 --- | --- | --- | --- | --- | ---- | --- | --- | ---
-A17a | Res50 | 20% | ? | 1.704757 | ? | ? | 0.505 | 5x4 + 2x4 epochs
-A17b | Res50 | 5% | ? | 1.557469 | ? | ? | 0.608 | 5x4 + 2x4 epochs
-A17c | Res50 | 4% | ? |  | ? | ? |  | 5x4 + 2x4 epochs
+A17a | Res50 | 20% | ? | 1.704757 | 2.0534 | ? | 0.505 | 5x4 + 2x4 epochs
+A17b | Res50 | 5% | ? | 1.557469 | 1.7175 | ? | 0.608 | 5x4 + 2x4 epochs
+A17c | Res50 | 4% | ? | 1.508805 | 1.5011 | ? | 0.644 | 5x4 + 2x4 epochs
+A17d | Dense201 | 4% | ? |  |  | ? |  | 40/3/3 + 4/4 epochs
