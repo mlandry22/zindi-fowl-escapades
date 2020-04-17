@@ -28,4 +28,7 @@ NB | Model | Val | Wt | Final CV | Pub. LB | Priv LB | Acc | Notes
 A17a | Res50 | 20% | ? | 1.704757 | 2.0534 | ? | 0.505 | 5x4 + 2x4 epochs
 A17b | Res50 | 5% | ? | 1.557469 | 1.7175 | ? | 0.608 | 5x4 + 2x4 epochs
 A17c | Res50 | 4% | ? | 1.508805 | 1.5011 | ? | 0.644 | 5x4 + 2x4 epochs
-A17d | Dense201 | 4% | ? |  |  | ? |  | 40/3/3 + 4/4 epochs
+A17d | Dense201 | 4% | ? |  | 1.6602 | ? |  | 40/3/3 + 4/4 epochs
+A17e | Dense201 | 5% | ? |  | 1.6966 | ? |  | 40/3/3 + 4/4 epochs
+A17f | Dense201 | 20% | ? |  | 1.4364 | ? |  | 40/3/3 + 4/4 epochs
+A17g | Dense201 | 20% | ? |  |  | ? |  | 40/3/3 + 4/4 / 299 size
